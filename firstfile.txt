@@ -1,2 +1,9 @@
-# firstfile.txt
-updating in main branch in remote repository
+welcome=input("enter welcome message")
+print("hello everyone")
+print('your msg is')
+print(welcome)
+msg='hello'
+hello
+how are you
+i am fine
+AGMRCET VARUR
